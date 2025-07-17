@@ -1,1 +1,3 @@
-<?php echo "This subject is git tutorial"; ?>
+<?php echo "This subject is Git tutorial";
+      echo "This subject is Git tutorial"; 
+?>
