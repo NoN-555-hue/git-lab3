@@ -1,0 +1,4 @@
+<? 
+   echo "username";
+   echo "password";
+?>
